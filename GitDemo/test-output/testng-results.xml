@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="95101" started-at="2019-02-12T05:42:46Z" finished-at="2019-02-12T05:44:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="95101" started-at="2019-02-12T05:42:46Z" finished-at="2019-02-12T05:44:21Z">
+      <class name="com.test.MavenJenkinsDemo.OpenBrowser">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.test.MavenJenkinsDemo.OpenBrowser@59f99ea]" name="beforeTest" is-config="true" duration-ms="67721" started-at="2019-02-12T05:42:46Z" finished-at="2019-02-12T05:43:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.test.MavenJenkinsDemo.OpenBrowser@59f99ea]" name="login" duration-ms="27213" started-at="2019-02-12T05:43:54Z" finished-at="2019-02-12T05:44:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.test.MavenJenkinsDemo.OpenBrowser@59f99ea]" name="afterTest" is-config="true" duration-ms="131" started-at="2019-02-12T05:44:21Z" finished-at="2019-02-12T05:44:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.test.MavenJenkinsDemo.OpenBrowser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
